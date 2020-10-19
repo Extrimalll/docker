@@ -1,0 +1,1 @@
+<script src="<?='http://'.$_SERVER['HTTP_HOST'];?>/js/main.js"></script>
